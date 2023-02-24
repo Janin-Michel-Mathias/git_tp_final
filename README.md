@@ -41,7 +41,7 @@ Noms des étudiants :
 * Nom Prénom
 * Michel-Mathias Janin
 
-Date du jour : 00/00/0000
+Date du jour : 24/02/2023
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
