@@ -37,9 +37,9 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
 Noms des étudiants : 
+* Michel-Mathias Janin
 * Nom Prénom
-* Nom Prénom
-* Nom Prénom
+* Michel-Mathias Janin
 
 Date du jour : 00/00/0000
 
